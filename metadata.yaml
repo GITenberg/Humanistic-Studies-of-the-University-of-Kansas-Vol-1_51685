@@ -1,0 +1,37 @@
+_repo: Humanistic-Studies-of-the-University-of-Kansas-Vol-1_51685
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Croissant, De Witt Clinton
+    gutenberg_agent_id: '46522'
+    url: http://www.gutenberg.org/2009/agents/46522
+  - agent_name: Hogrefe, Pearl
+    gutenberg_agent_id: '46523'
+    url: http://www.gutenberg.org/2009/agents/46523
+  - agent_name: Cressman, Edmund Dresser
+    gutenberg_agent_id: '46524'
+    url: http://www.gutenberg.org/2009/agents/46524
+  - agent_name: Mitchell, Arthur
+    birthdate: 1872
+    deathdate: 1953
+    gutenberg_agent_id: '31838'
+    url: http://www.gutenberg.org/2009/agents/31838
+description: ''
+gutenberg_issued: '2016-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humanities'
+- !lcc 'AS'
+- !lcc 'LD'
+- GITenberg
+tableOfContents: Studies in the work of Colley Cibber / De Witt C. Croissant -- Studies
+  in Bergson’s philosophy / Arthur Mitchell -- Browning and Italian art and artists
+  / Pearl Hogrefe -- The semantics of -mentum, -bulum, and -culum / Edmund D. Cressman.
+title: Humanistic Studies of the University of Kansas, Vol. 1
+url: http://www.gutenberg.org/ebooks/51685
