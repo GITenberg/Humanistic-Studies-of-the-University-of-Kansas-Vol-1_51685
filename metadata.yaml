@@ -1,5 +1,8 @@
 _repo: Humanistic-Studies-of-the-University-of-Kansas-Vol-1_51685
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51685-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Croissant, De Witt Clinton
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '31838'
     url: http://www.gutenberg.org/2009/agents/31838
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51685#Humanistic-Studies-of-the-University-of-Kansas-Vol-1
 gutenberg_issued: '2016-04-07'
 gutenberg_type: Text
 identifiers:
